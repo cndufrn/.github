@@ -1,10 +1,10 @@
-# Coletivo Neurodivergente da UFRN (CNDUFRN)
+# Coletivo Neurodivergente na UFRN (CNDUFRN)
 
-Bem-vindo à página da organização do Coletivo Neurodivergente da Universidade Federal do Rio Grande do Norte (CNDUFRN) no GitHub!
+Bem-vindo à página da organização do Coletivo Neurodivergente na Universidade Federal do Rio Grande do Norte (CNDUFRN) no GitHub!
 
 ## Sobre nós
 
-O Coletivo Neurodivergente da UFRN é uma organização independente que visa promover a inclusão e o apoio às pessoas neurodivergentes dentro da comunidade acadêmica da Universidade Federal do Rio Grande do Norte (UFRN). Nosso objetivo é criar um ambiente acolhedor e acessível para todos, promovendo a conscientização, a educação e ações concretas em prol da neurodiversidade.
+O Coletivo Neurodivergente na UFRN é uma organização independente que visa promover a inclusão e o apoio às pessoas neurodivergentes dentro da comunidade acadêmica da Universidade Federal do Rio Grande do Norte (UFRN). Nosso objetivo é criar um ambiente acolhedor e acessível para todos, promovendo a conscientização, a educação e ações concretas em prol da neurodiversidade.
 
 ## Projetos
 
@@ -20,7 +20,7 @@ Encorajamos e valorizamos as contribuições de todos, independentemente de sua 
 
 ## Contato
 
-Para mais informações sobre o Coletivo Neurodivergente da UFRN, entre em contato conosco através do e-mail: coletivoneurodivergenteufrn@gmail.com.
+Para mais informações sobre o Coletivo Neurodivergente na UFRN, entre em contato conosco através do e-mail: coletivoneurodivergenteufrn@gmail.com.
 
 Siga-nos também no [Instagram](https://www.instagram.com/coletivoneurodivergenteufrn/) para ficar por dentro das nossas atividades e iniciativas.
 
